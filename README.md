@@ -49,7 +49,7 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 ![image](https://github.com/user-attachments/assets/11fe0f1d-3869-4ace-85d5-3b676d14f019)
 
 ### Add Password Tab - Adding and saving Credentials
-![image](https://github.com/user-attachments/assets/018f3c90-9be1-4a13-a012-20d52716e878)
+![image](https://github.com/user-attachments/assets/56ef484c-fb40-4c99-98dc-642051e721c7)
 
 ### Search Password Tab - Searching for Stored Passwords
 ![image](https://github.com/user-attachments/assets/cb3fb0ac-b7f6-4073-ac7c-0084458691d6)
