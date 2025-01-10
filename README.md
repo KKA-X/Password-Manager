@@ -46,7 +46,7 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 ## Snapshots
 
 ### Login Page
-![image](https://github.com/user-attachments/assets/031b917b-98b4-4c40-96bd-2e95626c2270)
+![image](https://github.com/user-attachments/assets/c2e196a0-35a5-4eb5-b8be-5ab3ba7027cc)
 
 ### Add Password Tab - Adding and saving Credentials
 ![image](https://github.com/user-attachments/assets/aacd14cb-1573-4c6b-96f0-62808f246b77)
