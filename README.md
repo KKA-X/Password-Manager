@@ -46,7 +46,19 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 ## Snapshots
 
 ### Login Page
-![image](https://github.com/user-attachments/assets/0bca8a42-1832-43b2-9e94-5b647419ad9c)
+![image](https://github.com/user-attachments/assets/11fe0f1d-3869-4ace-85d5-3b676d14f019)
+
+### Add Password Tab - Adding and saving Credentials
+![image](https://github.com/user-attachments/assets/5131a2bb-b37c-4d0d-a021-bddeb66ab28f)
+
+### Search Password Tab - Searching for Stored Passwords
+![image](https://github.com/user-attachments/assets/cb3fb0ac-b7f6-4073-ac7c-0084458691d6)
+
+### Delete Password Tab - Deleting Stored Password
+![image](https://github.com/user-attachments/assets/ff0fc68b-4287-472f-b4b6-a5ba2fd03511)
+
+### Update Password Tab - Updating the Existing Password
+![image](https://github.com/user-attachments/assets/237f5837-a131-4ab2-a506-35760ce436e3)
 
 ## Requirements
 
