@@ -46,19 +46,19 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 ## Snapshots
 
 ### Login Page
-![image](https://github.com/user-attachments/assets/11fe0f1d-3869-4ace-85d5-3b676d14f019)
+![image](https://github.com/user-attachments/assets/0e479a9a-4217-4db3-9ffe-f9b4616c480f)
 
 ### Add Password Tab - Adding and saving Credentials
-![image](https://github.com/user-attachments/assets/2bc0c060-c5cd-40e5-bd56-fdeee0ed7539)
+![image](https://github.com/user-attachments/assets/aacd14cb-1573-4c6b-96f0-62808f246b77)
 
 ### Search Password Tab - Searching for Stored Passwords
-![image](https://github.com/user-attachments/assets/7c559efa-a629-4503-a176-f9c1061c9273)
+![image](https://github.com/user-attachments/assets/04a1a05d-c2d1-4610-ac90-b0035b7063a9)
 
 ### Delete Password Tab - Deleting Stored Password
-![image](https://github.com/user-attachments/assets/ff0fc68b-4287-472f-b4b6-a5ba2fd03511)
+![image](https://github.com/user-attachments/assets/f19dba8b-f088-4c61-bbc9-58b759e0cefa)
 
 ### Update Password Tab - Updating the Existing Password
-![image](https://github.com/user-attachments/assets/237f5837-a131-4ab2-a506-35760ce436e3)
+![image](https://github.com/user-attachments/assets/4d19efe0-61db-45e9-bf92-8871763027b4)
 
 ## Requirements
 
