@@ -52,7 +52,7 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 ![image](https://github.com/user-attachments/assets/56ef484c-fb40-4c99-98dc-642051e721c7)
 
 ### Search Password Tab - Searching for Stored Passwords
-![image](https://github.com/user-attachments/assets/cb3fb0ac-b7f6-4073-ac7c-0084458691d6)
+![image](https://github.com/user-attachments/assets/7c559efa-a629-4503-a176-f9c1061c9273)
 
 ### Delete Password Tab - Deleting Stored Password
 ![image](https://github.com/user-attachments/assets/ff0fc68b-4287-472f-b4b6-a5ba2fd03511)
