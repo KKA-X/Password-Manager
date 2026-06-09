@@ -18,7 +18,7 @@ A **secure and user-friendly Password Manager** designed to help individuals sto
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/KKA-X/Password-Manager.git
    cd password-manager
    ```
 
